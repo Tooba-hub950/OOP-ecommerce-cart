@@ -1,0 +1,3 @@
+Add starter template for ecommerce cart system <br>
+Add abstract PricingStrategy class for pricing calculations <br>
+Create Product and CartItem dataclasses br
